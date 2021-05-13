@@ -2,7 +2,8 @@
 
 # Creating a music recommender with Spotipy
 
-This project gathers puts together several labs from week 7 in the Ironhack bootcamp. You can find all the notebooks in the folder [code](https://github.com/Alex-Skp/Music-recommender-with-Spotipy/tree/master/code). The objectives of each lab and the step by step execution of the project can be found [here](https://github.com/Alex-Skp/Music-recommender-with-Spotipy#execution-labs)
+This project gathers puts together several labs from week 7 in the Ironhack bootcamp. You can find all the notebooks in the folder [code](https://github.com/Alex-Skp/Music-recommender-with-Spotipy/tree/master/code). The objectives of each lab and the step by step execution of the project can be found [here](https://github.com/Alex-Skp/Music-recommender-with-Spotipy#execution-labs). 
+
 
 ### Scenario
 
