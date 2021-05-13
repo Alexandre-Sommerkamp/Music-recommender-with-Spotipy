@@ -1,9 +1,8 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | API wrappers - Create your collection of songs & audio features
+# Creating a music recommender with Spotipy
 
-
-# Case Study: The site for recommendations - "Gnod"
+This project gathers puts together several labs from week 7 in the Ironhack bootcamp. You can find all the notebooks in the folder [code](https://github.com/Alex-Skp/Music-recommender-with-Spotipy/tree/master/code). The objectives of each lab and the step by step execution of the project can be found [here](#Execution:-Labs)
 
 ### Scenario
 
